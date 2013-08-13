@@ -169,5 +169,10 @@
 	padding: 11px;
 }
 
+body {
+  background-image: url(https://f.cloud.github.com/assets/5040656/955798/fe00043e-0430-11e3-9905-1c0795f6de70.jpg);
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
 
 	
